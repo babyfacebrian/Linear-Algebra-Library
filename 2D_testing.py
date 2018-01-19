@@ -5,7 +5,6 @@ from LineClass import *
 
 getcontext().prec = 10
 
-
 v1 = Vector([2, 5])
 v2 = Vector([2, 1])
 
